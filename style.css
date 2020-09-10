@@ -1,0 +1,28 @@
+nav .link {
+    color: crimson;
+    text-decoration: none;
+}
+#about blockquote {
+    background: #eaeaea;
+}
+#users span {
+    font-weight: bold;
+}
+#creators .link {
+    font-family: 'Lato';
+    text-decoration: none;
+}
+#creators .link.font {
+    font-family: 'PT Serif';
+    font-weight: bold
+
+}
+#cta h2 {
+    color: crimson;
+    font-family: 'Lato';
+}
+
+ul li:nth-child(1),
+ul li:nth-child(3) {
+    text-decoration: underline;
+}
